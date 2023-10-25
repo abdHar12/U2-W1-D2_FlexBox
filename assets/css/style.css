@@ -66,6 +66,7 @@ body > main > h2 {
 .product-card h2,
 .product-card span {
   font-size: 1.2rem;
+  align-self: center;
 }
 .all-elements-but-image button {
   border-radius: 8px;
